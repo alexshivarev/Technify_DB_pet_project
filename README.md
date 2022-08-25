@@ -1,1 +1,5 @@
 # Technify_DB_pet_project
+
+## Inroduction
+  You are about to take a lead part in the development of “Technify”, a (fictional) Technion's digital music application. In Technify users can listen to the music they like, follow playlists and more. Technify is a smart service that also recommends users new music according to the songs they have listened to.
+Your mission is to design the database and implement the data access layer of the system. Typically, the data access layer facilitates the interaction of other components of the system with the database by providing a simplified API that carries out a predefined desired set of operations. A function in the API may receive as input arguments business objects. These are regular Java classes that hold a special semantic meaning in the context of the application (typically, all other system components are familiar with them). The ZIP file that accompanies this document contains the set of business objects to be considered in the assignment, as well as the full (unimplemented) API. Your job is to write code into these functions to fulfil their purpose as described.
