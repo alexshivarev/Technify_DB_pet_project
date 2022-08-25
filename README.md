@@ -7,4 +7,4 @@ Your mission is to design the database and implement the data access layer of th
 My job in this project was create database based on PostgreSQL and implement Api to work with ds. 
 To do this work i learned pgAdmin4 client (setting database and connecting it) and learned how realise CRUD Api in Java with Oracle JDK. Also, since it was forbidden to carry out all manipulations with the data, I used SQL queries.
 
-For a more detailed review of the project, I recommend reading the following [embed](https://github.com/alexshivarev/Technify_DB_pet_project/blob/899d7a7ff5e2d6d57796665b5339c1fb29c7abc3/main/java/technify/961144102.pdf)[/embed]
+For a more detailed review of the project, I recommend reading the following [documentation file](https://github.com/alexshivarev/Technify_DB_pet_project/blob/899d7a7ff5e2d6d57796665b5339c1fb29c7abc3/main/java/technify/961144102.pdf)[/embed]
